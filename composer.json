@@ -1,0 +1,6 @@
+{
+    "require": {
+        "convertapi/convertapi-php": "^1.6",
+        "aspose-cloud/aspose-words-cloud": "^23.2"
+    }
+}
